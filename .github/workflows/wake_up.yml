@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Visit App
-        run: curl -I https://stock-sentiment-analyser-zar3cdkvenw3to74ve4dvl.streamlit.app/
+        run: curl -I https://company-news-sentiment-analyser.streamlit.app/
